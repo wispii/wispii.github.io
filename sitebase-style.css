@@ -3,8 +3,8 @@
    "how to change link color." */
 
 body {
-  background-color: #0245d7;
-  background-image: url('..\\images\\background.png');
+  background-color: #161616;
+  background-image: url('\\images\\background.png');
 	background-position: top;
 	background-repeat: repeat;
 	background-attachment: fixed;
@@ -73,6 +73,12 @@ h1, h2, h3, h4, h5 {
 
 #content {
   padding: 10px 5% 20px 5%;
+}
+
+#contentScroll{
+  padding: 10px 5% 20px 5%;
+  overflow:scroll;
+  overflow-x:hidden
 }
 
 
