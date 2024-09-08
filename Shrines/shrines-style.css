@@ -4,7 +4,7 @@
 
 body {
   background-color: #0245d7;
-  background-image: url('\\images\\background.png');
+  background-image: url('..\\images\\background.png');
 	background-position: top;
 	background-repeat: repeat;
 	background-attachment: fixed;
